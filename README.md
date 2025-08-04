@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 <div align="center">
 
@@ -6,17 +6,18 @@
 
 </div>
 
-I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for building smart, scalable systems. I enjoy crafting software that blends creativity with real-world impact.
 
 <div align="center">
+   
+   I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for building smart, scalable systems. I enjoy crafting software that blends creativity with real-world impact.
 
- 🔍 **Actively seeking opportunities to collaborate, learn, and grow. Let's create something meaningful together!** 🚀
+   **Actively seeking opportunities to collaborate, learn, and grow. Let's create something meaningful together!** 
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
@@ -29,7 +30,7 @@ I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for 
 
 ---
 
-## 💻 Technical Arsenal
+##  Technical Arsenal
 
 <div align="center">
 
@@ -83,7 +84,7 @@ I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -100,7 +101,7 @@ I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for 
 
 ---
 
-## 🏆 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -112,10 +113,10 @@ I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for 
 
 <div align="center">
 
-### 💡 *"Build things that matter, not just things that work."*  
+### *"Build things that matter, not just things that work."*  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rohitrath0d&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/rohitrath0d)
 
-**Thanks for stopping by! Let’s build something impactful together. 🚀**
+**Thanks for stopping by! Let’s build something impactful together. **
 
 </div>

@@ -20,8 +20,10 @@ I'm **Rohit Rathod**, a recent **Computer Science Graduate** with a passion for 
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF6B35?style=for-the-badge)](https://rohit-portfolio-beta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-rathod-086527252)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rthd.04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitrath0d)
 
 </div>
 

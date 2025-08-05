@@ -51,20 +51,3 @@ creating tools that tackle real-world challenges.
     </td>
   </tr>
 </table>
-
-
-<!--
-## Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rohitrath0d&icon=0&color=0" />
-</p>
-
----
---!>
-
-
-   
-</div>
-
-

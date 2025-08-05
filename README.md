@@ -29,7 +29,7 @@ creating tools that tackle real-world challenges.
 
 ## Want to connect.. ?
 
-<div align="center"> <a href="https://linkedin.com/in/rohit-rathod-086527252" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> &nbsp; <a href="mailto:rohit.rthd.04@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> &nbsp; <a href="https://rohit-portfolio-beta.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/> </a> </div>
+<div align="center"> <a href="https://linkedin.com/in/rohit-rathod-086527252" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> &nbsp; <a href="mailto:rohit.rthd.04@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> &nbsp; <a href="https://rohit-portfolio-beta.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/My%20Portfolio-FFFF00?logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/> </a> </div>
 
 ## Tech Stack i happen to use!
 

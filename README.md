@@ -21,7 +21,7 @@
 ## Who am i.. ?
 
 I'm **Rohit Rathod**, a recent **Computer Science graduate** driven by a passion for **tech + business**.  
-As an aspiring **developer**, I thrive on building solutions that not only work — but matter.
+As an aspiring **developer**, I like to build solutions that not only work, but matter.
 
 I love blending **creativity** with **code**, and I’m always seeking new technologies, exploring ideas, and  
 creating tools that tackle real-world challenges.

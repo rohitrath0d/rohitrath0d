@@ -1,4 +1,4 @@
-<h1 align="center"> Rohit Rathod — Full Stack Developer</h1>
+<h1 align="center"> Rohit Rathod - Full Stack Developer</h1>
 
 <!--
 <p align="center">
